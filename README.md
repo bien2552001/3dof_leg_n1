@@ -4,7 +4,7 @@ _**Mo ta**:_
 + _Phan chuyen dong chua duoc muot ma, can chinh them cac thong so_
 
 # Run
-### B1: Tim den thu muc leg_3dof dung lenh: cd ~/leg_3dof
+### B1: Tim den thu muc leg_3dof dung lenh: ```cd ~/leg_3dof``` 
   + Chay cac lenh sau de tao moi truong va build goi ROS1 Noetic : 
   + ```source /opt/ros/noetic/setup.bash ``` 
   + ```catkin_make ``` 
