@@ -1,5 +1,5 @@
 # leg_3dof
-**Mo ta**: 
+_**Mo ta**:_ 
 + _Hien tai da mo phong duoc tren gazebo va riviz , du lieu chuyen dong cho cac khop dung file "csv" (xuat tu matlab)_  
 + _Phan chuyen dong chua duoc muot ma, can chinh them cac thong so_
 
@@ -10,8 +10,9 @@
   + catkin_make
   + source devel/setup.bash
 ### B2: Run cac goi pkg sau:
-- Mo terminal moi, Run cac **B1** va run: roslaunch leg_gazebo leg_robot.launch  (Lenh nay khoi tao moi truong mo phong gazebo)  
+- New terminal, Run cac **B1** va run: roslaunch leg_gazebo leg_robot.launch  (Lenh nay khoi tao moi truong mo phong gazebo)  
 _<ins><font color="red">*Chu y: Nhan nut Realtime o goc trai duoi cung*</font></ins>_
-- Mo terminal moi, Run cac lenh **B1** va run: roslaunch leg_gazebo leg_control.launch (Them phan dieu khien cac khop )
-- Mo terminal moi, Run cac lenh **B1** va run: roslaunch leg_rviz1 leg_rviz.launch ( Khoi chay moi truong mo phong rviz1)
+- New terminal, Run cac lenh **B1** va run: roslaunch leg_gazebo leg_control.launch (Them phan dieu khien cac khop )
+- New terminal, Run cac lenh **B1** va run: roslaunch leg_rviz1 leg_rviz.launch ( Khoi chay moi truong mo phong rviz1)
 ### B3: Chuyen dong voi du lieu tu file csv
+- New terminal : cd ~/leg_3dof/src/demo/leg_gazebo/scripts ==> Run: python3 leg_read_csv.py
