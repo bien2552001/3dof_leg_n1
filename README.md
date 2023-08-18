@@ -3,7 +3,7 @@ Mo ta: Hien tai da mo phong duoc tren gazebo va riviz , du lieu cho phan chuyen 
 
 # Run
 B1: Tim den thu muc leg_3dof dung lenh: cd ~/leg_3dof
-  ==> Chay cac lenh sau de tao moi truong va build goi ROS1 Noetic : 
+- Chay cac lenh sau de tao moi truong va build goi ROS1 Noetic : 
   + source /opt/ros/noetic/setup.bash
   + catkin_make
   + source devel/setup.bash
