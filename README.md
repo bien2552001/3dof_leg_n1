@@ -7,12 +7,12 @@ _**Mo ta**:_
 ### B1: Tim den thu muc leg_3dof dung lenh: cd ~/leg_3dof
   + Chay cac lenh sau de tao moi truong va build goi ROS1 Noetic : 
   + ```source /opt/ros/noetic/setup.bash 
-  + catkin_make
-  + source devel/setup.bash
+  + ```catkin_make 
+  + ```source devel/setup.bash 
 ### B2: Run cac goi pkg sau:
-- New terminal, Run cac **B1** va run: roslaunch leg_gazebo leg_robot.launch  (Lenh nay khoi tao moi truong mo phong gazebo)  
+- New terminal, Run cac **B1** va run: ```roslaunch leg_gazebo leg_robot.launch  (Lenh nay khoi tao moi truong mo phong gazebo)  
 _<ins><font color="red">*Chu y: Nhan nut Realtime o goc trai duoi cung*</font></ins>_
-- New terminal, Run cac lenh **B1** va run: roslaunch leg_gazebo leg_control.launch (Them phan dieu khien cac khop )
-- New terminal, Run cac lenh **B1** va run: roslaunch leg_rviz1 leg_rviz.launch ( Khoi chay moi truong mo phong rviz1)
+- New terminal, Run cac lenh **B1** va run: ```roslaunch leg_gazebo leg_control.launch (Them phan dieu khien cac khop )
+- New terminal, Run cac lenh **B1** va run: ```roslaunch leg_rviz1 leg_rviz.launch ( Khoi chay moi truong mo phong rviz1)
 ### B3: Chuyen dong voi du lieu tu file csv
-- New terminal : cd ~/leg_3dof/src/demo/leg_gazebo/scripts ==> Run: python3 leg_read_csv.py
+- New terminal : ```cd ~/leg_3dof/src/demo/leg_gazebo/scripts ==> Run: ```python3 leg_read_csv.py
