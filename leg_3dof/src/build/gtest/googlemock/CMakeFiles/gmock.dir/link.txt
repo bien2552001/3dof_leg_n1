@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g  -shared -Wl,-soname,libgmockd.so -o ../lib/libgmockd.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/bien/ROS1/pratice/no1_leg_robot/leg_3dof/src/build/gtest/lib ../lib/libgtestd.so -lpthread 

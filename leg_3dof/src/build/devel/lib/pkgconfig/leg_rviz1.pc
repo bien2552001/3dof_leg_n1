@@ -1,0 +1,8 @@
+prefix=/home/bien/ROS1/pratice/no1_leg_robot/leg_3dof/src/build/devel
+
+Name: leg_rviz1
+Description: Description of leg_rviz1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy std_msgs

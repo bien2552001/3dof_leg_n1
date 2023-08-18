@@ -1,0 +1,2 @@
+demo/leg_description:demo/leg_gazebo:demo/leg_rviz1
+-DCATKIN_DEVEL_PREFIX=/home/bien/ROS1/pratice/no1_leg_robot/leg_3dof/devel -DCMAKE_INSTALL_PREFIX=/home/bien/ROS1/pratice/no1_leg_robot/leg_3dof/install -G Unix Makefiles

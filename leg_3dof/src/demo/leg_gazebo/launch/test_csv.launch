@@ -1,0 +1,4 @@
+<launch>
+
+    <node name="leg_read_csv" pkg="leg_gazebo" type="leg_read_csv.py" output="screen"> </node>
+</launch>
