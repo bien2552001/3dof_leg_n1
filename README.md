@@ -1,6 +1,7 @@
 # leg_3dof
-**Mo ta**: Hien tai da mo phong duoc tren gazebo va riviz , du lieu chuyen dong cho cac khop dung file "csv" (xuat tu matlab)  
-Phan chuyen dong chua duoc muot ma, can chinh them cac thong so 
+**Mo ta**: 
++ _Hien tai da mo phong duoc tren gazebo va riviz , du lieu chuyen dong cho cac khop dung file "csv" (xuat tu matlab)_  
++ _Phan chuyen dong chua duoc muot ma, can chinh them cac thong so_
 
 # Run
 ## B1: Tim den thu muc leg_3dof dung lenh: cd ~/leg_3dof
