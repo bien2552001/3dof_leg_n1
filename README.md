@@ -6,7 +6,7 @@ _**Mo ta**:_
 # Run
 ### B1: Tim den thu muc leg_3dof dung lenh: cd ~/leg_3dof
   + Chay cac lenh sau de tao moi truong va build goi ROS1 Noetic : 
-  + ```source /opt/ros/noetic/setup.bash```
+  + ```source /opt/ros/noetic/setup.bash 
   + catkin_make
   + source devel/setup.bash
 ### B2: Run cac goi pkg sau:
