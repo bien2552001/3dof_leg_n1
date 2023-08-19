@@ -3,7 +3,7 @@ _**Mo ta**:_
 + _Hien tai da mo phong duoc tren gazebo va riviz , du lieu chuyen dong cho cac khop dung file "csv" (xuat tu matlab)_  
 + _Phan chuyen dong chua duoc muot ma, can chinh them cac thong so_
 # Video Demo
-https://github.com/bien2552001/leg_3dof/assets/128835452/3cef4f38-40c2-4f5e-bb86-40f7a14c5977
+
 
 # Run
 ### B1: Tim den thu muc leg_3dof dung lenh: ```cd ~/leg_3dof``` 
